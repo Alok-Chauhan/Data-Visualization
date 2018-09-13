@@ -1,4 +1,4 @@
-# Data-Visualization
+# Data-Visualization-for-Uber
 
 The problem Uber is facing - driver cancellation and non-availability of cars leading to loss of potential revenue.
 If drivers cancel the request of riders or if cars are unavailable, Uber loses out on its revenue. 
